@@ -12,6 +12,8 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
+<a href="https://play.google.com/store/apps/details?id=com.developlogix.daymark&hl=en"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-Download_Now-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+
 </div>
 
 > 🔒 **Source code is private** (commercial product). This page is a case study of what I designed and built end to end — product, UX, mobile app, backend and subscriptions.
@@ -66,7 +68,7 @@ Managing a health condition means remembering a lot: how you felt today, what yo
 ## 📸 Screenshots & links
 
 <!-- Add screenshots: <img src="screenshots/home.png" width="220"/> -->
-<!-- Add store badges once published -->
+📲 **[Download Daymark on Google Play](https://play.google.com/store/apps/details?id=com.developlogix.daymark&hl=en)**
 *Screenshots and demo available on request.*
 
 ---
